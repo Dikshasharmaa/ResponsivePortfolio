@@ -1,9 +1,8 @@
-import logo from './logo.svg';
-import './App.modules.css';
+import styles from "./App.modules.css";
 
 function App() {
   return (
-    <>Hello World!</>
+    <div className={styles.App}>Hello World!</div>
   );
 }
 
