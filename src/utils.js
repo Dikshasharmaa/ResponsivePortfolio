@@ -1,3 +1,3 @@
 export const getImageUrl = (path) => {
-    return new URL(`/assets/${path}`, import.meta.url).href;
-  };
+  return process.env.PUBLIC_URL + `/assets/${path}`;
+};
