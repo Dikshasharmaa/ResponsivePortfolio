@@ -12,7 +12,7 @@
       "imageSrc": "skills/react.png"
     },
     {
-      "title": "Node",
+      "title": "Java",
       "imageSrc": "skills/node.png"
     },
     {
@@ -24,7 +24,11 @@
       "imageSrc": "skills/mongodb.png"
     },
     {
-      "title": "Figma",
+      "title": "Python",
+      "imageSrc": "skills/figma.png" 
+    },
+    {
+      "title": "JavaScript",
       "imageSrc": "skills/figma.png" 
     }
   ]
