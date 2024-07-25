@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Table Talk",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to chat for workspace and for personal use too It is a Slack clone.",
+      "skills": ["React", "Web Sockets", "JHipster", "Java", "Sql"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Veterinary App",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to Take advice from a vet online.",
+      "skills": ["Python", "MongoDb"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Casino",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to play few Casinno games.",
+      "skills": ["Java"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
