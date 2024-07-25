@@ -13,11 +13,11 @@
     },
     {
       "title": "Java",
-      "imageSrc": "skills/node.png"
+      "imageSrc": "skills/java.png"
     },
     {
       "title": "Sql",
-      "imageSrc": "skills/graphql.png"
+      "imageSrc": "skills/Sql.png"
     },
     {
       "title": "MongoDB",
@@ -25,10 +25,10 @@
     },
     {
       "title": "Python",
-      "imageSrc": "skills/figma.png" 
+      "imageSrc": "skills/py.png" 
     },
     {
       "title": "JavaScript",
-      "imageSrc": "skills/figma.png" 
+      "imageSrc": "skills/Js.png" 
     }
   ]
