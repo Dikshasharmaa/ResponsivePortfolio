@@ -14,7 +14,7 @@ export const Contact=()=>{
                 <a href="mailto:dikshadevelops@gmail.com">dikshadevelops@gmail.com</a>
             </li>
             <li className={styles.link}>
-                <img src={getImageUrl("contact/linkdinIcon.png")} alt="Linkdin"/>
+                <img src={getImageUrl("contact/linkedinIcon.png")} alt="Linkdin"/>
                 <a href="https://www.linkedin.com/in/dikshasharma6/">linkdIn.com/Diksha</a>
             </li>
             <li className={styles.link}>
