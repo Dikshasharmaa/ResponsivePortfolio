@@ -5,15 +5,15 @@
       "description": "This is a project made to chat for workspace and for personal use too It is a Slack clone.",
       "skills": ["React", "Web Sockets", "JHipster", "Java", "Sql"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/Dikshasharmaa/SlackClone"
     },
     {
-      "title": "Veterinary App",
+      "title": "ToDo list",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to Take advice from a vet online.",
-      "skills": ["Python", "MongoDb"],
+      "skills": ["React"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/Dikshasharmaa/ToDo-List"
     },
     {
       "title": "Casino",
