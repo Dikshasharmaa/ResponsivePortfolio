@@ -11,11 +11,15 @@
     padding: 58px 10%;
     gap: 10px;
 }
-.text h2{
-    font-size: 80px;
+.text h2 {
+    font-size: 50px;
     font-weight: 700;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
+    margin: 0; 
+    padding: 0; 
+    background-color: transparent; 
 }
+
 .text p{
     font-size: 40px;
     font-weight: 400;
